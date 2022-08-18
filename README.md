@@ -5,3 +5,5 @@
 - 📫 How to reach me omartemsamani22@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Kuuhaakuu1)
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuuhaakuu1&show_icons=true&theme=tokyonight&count_private=true)
