@@ -6,4 +6,4 @@
 
 ![](https://komarev.com/ghpvc/?username=Kuuhaakuu1)
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuuhaakuu1&show_icons=true&theme=tokyonight)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuuhaakuu1&count_private=true&show_icons=true&theme=tokyonight)
