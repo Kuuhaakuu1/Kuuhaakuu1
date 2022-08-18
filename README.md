@@ -7,3 +7,4 @@
 ![](https://komarev.com/ghpvc/?username=Kuuhaakuu1)
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuuhaakuu1&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kuuhaakuu1&theme=dark)](https://git.io/streak-stats)
